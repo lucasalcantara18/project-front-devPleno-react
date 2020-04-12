@@ -1,0 +1,35 @@
+{
+  "name": "project-front-devpleno-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasalcantara18/project-front-devPleno-react.git"
+  },
+  "author": "Lucas Alcântara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasalcantara18/project-front-devPleno-react/issues"
+  },
+  "homepage": "https://github.com/lucasalcantara18/project-front-devPleno-react#readme",
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^0.11.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^8.10.0",
+    "geofirestore": "^3.4.1",
+    "next": "^9.3.4",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
